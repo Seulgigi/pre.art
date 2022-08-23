@@ -1,3 +1,3 @@
-# preart_jy
+# 멋사 10기 해커톤_전시회 펀딩 플랫폼, PRE.ART
 
 결제 방식 : stripe 플랫폼
